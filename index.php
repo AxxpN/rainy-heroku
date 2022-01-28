@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="css/style.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 
 <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
@@ -27,12 +27,12 @@
     <br>
 
     <div class="botoes">
-        <button class="botao1" onclick="PlaySound('melody')"> <img src="img/chuva.png" width="78" height="78" alt="nuvem" id="nuvem1"> </button>
-        <button class="botao2" onclick="PlaySound2('melody')"> <img src="img/xicara2.png" width="64" height="64" alt="xicara" id="xicara1"> </button>
-        <button class="botao3" onclick="PlaySound3('melody')"> <img src="img/car.png" width="75" height="75" alt="carro" id="carro1"> </button>
-        <button class="botao4" onclick="PlaySound4('melody')"> <img src="img/sea.png" width="75" height="75" alt="mar" id="mar1"> </button>
-        <button class="botao5" onclick="PlaySound5('melody')"> <img src="img/fire.png" width="75" height="75" alt="fogo" id="fogo1"> </button>
-        <button class="botao6" onclick="PlaySound6('melody')"> <img src="img/wind2.png" width="75" height="75" alt="vento" id="vento1"> </button>
+        <button class="botao1" onclick="PlaySound('melody')"> <img src="chuva.png" width="78" height="78" alt="nuvem" id="nuvem1"> </button>
+        <button class="botao2" onclick="PlaySound2('melody')"> <img src="xicara2.png" width="64" height="64" alt="xicara" id="xicara1"> </button>
+        <button class="botao3" onclick="PlaySound3('melody')"> <img src="car.png" width="75" height="75" alt="carro" id="carro1"> </button>
+        <button class="botao4" onclick="PlaySound4('melody')"> <img src="sea.png" width="75" height="75" alt="mar" id="mar1"> </button>
+        <button class="botao5" onclick="PlaySound5('melody')"> <img src="fire.png" width="75" height="75" alt="fogo" id="fogo1"> </button>
+        <button class="botao6" onclick="PlaySound6('melody')"> <img src="wind2.png" width="75" height="75" alt="vento" id="vento1"> </button>
 
         <button class="btn btn-primary" onclick="StopSound()" style="margin-top: 15px;">
             Parar todos
