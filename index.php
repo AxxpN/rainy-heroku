@@ -17,7 +17,7 @@
 <title>Rainy</title>
 
 
-<body style="background-image: url(img/background\ 2.gif);">
+<body style="background-image: url(background\ 2.gif);">
 
     <div class="header">
         <h1>Rainy</h1>
